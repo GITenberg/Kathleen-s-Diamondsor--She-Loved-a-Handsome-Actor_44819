@@ -1,0 +1,31 @@
+_repo: Kathleen-s-Diamondsor--She-Loved-a-Handsome-Actor_44819
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 44819-h/images/coverlarge.jpg
+creator:
+  author:
+    agent_name: Miller, Alex. McVeigh, Mrs.
+    aliases:
+    - Miller, Mrs. Alex. McVeigh
+    - Point, Mittie Frances Clarke
+    - Miller, Alexander McVeigh, Mrs.
+    - Miller, Mrs. Alex McVeigh
+    birthdate: 1850
+    deathdate: 1937
+    gutenberg_agent_id: '35103'
+    url: http://www.gutenberg.org/2009/agents/35103
+description: ''
+gutenberg_issued: '2014-02-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '44819'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PS'
+title: Kathleen's Diamonds; or, She Loved a Handsome Actor
+url: http://www.gutenberg.org/ebooks/44819
